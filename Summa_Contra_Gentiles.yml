@@ -1,6 +1,27 @@
 ---
-authors: [aquinas, boroday, pegis, anderson]
+author: 
+  lang: la
+  url: Aquinas
+  nic: aquinas
+  ru: св. Фома Аквинский
+  en: st. Thomas Aquinas
+
+translators:
+  - nic: boroday
+    lang: ru
+    ru: Т.Ю. Бородай
+    en: T.Ju. Boroday
+  - nic: pegis
+    lang: en
+    en: A.C. Pegis
+    ru: А.С. Пегис
+  - nic: anderson
+    lang: en
+    en: J.F. Anderson
+    ru: Дж.Ф. Андерсон
+
 tree:
+  url: Summa Contra Gentiles
   title: Summa Contra Gentiles
   en: Summa contra Gentiles
   ru: Сумма Против Язычников
