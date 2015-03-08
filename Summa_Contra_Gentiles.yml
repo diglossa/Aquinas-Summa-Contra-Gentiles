@@ -1,0 +1,615 @@
+---
+authors: [aquinas, boroday, pegis, anderson]
+tree:
+  title: Summa Contra Gentiles
+  en: Summa contra Gentiles
+  ru: Сумма Против Язычников
+  children:
+    - title: Liber Primus
+      en: "Book One: God"
+      ru: Книга первая
+      authors: [aquinas, boroday, pegis]
+      children:
+        - title: Caput 1
+          en: Chapter 1. The office of the wise man
+          ru: Глава 1. В чем обязанность мудреца
+        - title: Caput 2 
+          en: Chapter 2. The author’s intention in the present work
+          ru: Глава 2. Какова задача автора в этом сочинении
+        - title: Caput 3 
+          en: Chapter 3. On the way in which divine truth is to be made known
+          ru: Глава 3. Каким способом можно изложить божественную истину
+        - title: Caput 4 
+          en: Chapter 4. That the truth about God to which the natural reason reaches is fittingly proposed to men for belief
+          ru: Глава 4. О том, что правильно предлагается людям принять на веру истину о божественных вещах, доступную естественному разуму
+        - title: Caput 5 
+          en: Chapter 5. That the truths the human reason is not able to investigate are fittingly proposed to men for belief
+          ru: Глава 5. О том, что правильно предлагается людям веровать в то, чего нельзя исследовать разумом
+        - title: Caput 6 
+          en: Chapter 6. That to give assent to the truths of faith is not foolishness even though they are above reason
+          ru: Глава 6. О том, что соглашаться с [догматами] веры не есть признак легкомыслия, хотя они и выше разума
+        - title: Caput 7 
+          en: Chapter 7. That the truth of reason is not opposed to the truth of the Christian faith
+          ru: Глава 7. О том, что истина разума не противоречит истине христианской веры
+        - title: Caput 8 
+          en: Chapter 8. How the human reason is related to the truth of faith
+          ru: Глава 8. Каким образом относится человеческий разум к истине веры
+        - title: Caput 9 
+          en: Chapter 9. The order and manner of procedure in the present work
+          ru: Глава 9. О порядке и способе изложения в этой работе
+        - title: Caput 10 
+          en: Chapter 10. The opinion of those who say that the existence of God, being self-evident, cannot be demonstrated
+          ru: Глава 10. О мнении тех, кто утверждает, будто бытие Божие не может быть доказано, поскольку оно самоочевидно
+        - title: Caput 11 
+          en: Chapter 11. A refutation of the above-mentioned opinion and a solution of the arguments
+          ru: Глава 11. Отклонение вышеизложенного мнения и опровержение вышеизложенных доводов
+        - title: Caput 12 
+          en: Chapter 12. The opinion of those who say that the existence of God cannot be demonstrated but is held by faith alone
+          ru: Глава 12. О мнении тех, кто говорит, что бытие Бога не может быть доказано, но лишь принимается на веру
+        - title: Caput 13 
+          en: Chapter 13. Arguments in proof of the existence of God
+          ru: Глава 13. Доводы, доказывающие, что Бог есть
+        - title: Caput 14 
+          en: Chapter 14. That to know God we must use the way of remotion
+          ru: Глава 14. О том, что для познания Бога нужно пользоваться путем отрицания
+        - title: Caput 15 
+          en: Chapter 15. That God is eternal
+          ru: Глава 15. О том, что Бог вечен
+        - title: Caput 16 
+          en: Chapter 16. That there is no passive potency in God
+          ru: Глава 16. О том, что в Боге нет пассивной потенции
+        - title: Caput 17 
+          en: Chapter 17. That there is no matter in God
+          ru: Глава 17. О том, что Бог не есть материя
+        - title: Caput 18 
+          en: Chapter 18. That there is no composition in God 
+          ru: Глава 18. О том, что в Боге нет сложности
+        - title: Caput 19 
+          en: Chapter 19. That in God there is nothing violent or unnatural
+          ru: Глава 19. О том, что в Боге нет ничего насильственного и противоестественного
+        - title: Caput 20 
+          en: Chapter 20. That God is not a body
+          ru: Глава 20. О том, что Бог не есть тело
+        - title: Caput 21 
+          en: Chapter 21. That God is His essence
+          ru: Глава 21. О том, что Бог [тождествен] своей сущности
+        - title: Caput 22 
+          en: Chapter 22. That in God being and essence are the same
+          ru: Глава 22. О том, что в Боге бытие и сущность — одно и то же
+        - title: Caput 23 
+          en: Chapter 23. That no accident is found in God
+          ru: Глава 23. О том, что в Боге нет акциденций
+        - title: Caput 24 
+          en: Chapter 24. That the divine being cannot be determined by the addition of some substantial difference
+          ru: Глава 24. О том, что бытие Божие не может определяться добавлением какого-либо субстанциального отличия
+        - title: Caput 25 
+          en: Chapter 25. That God is not in some genus
+          ru: Глава 25. О том, что Бог не подчинен никакому роду
+        - title: Caput 26 
+          en: Chapter .26 That God is not the formal being of all things
+          ru: Глава 26. xxx
+        - title: Caput 27 
+          en: Chapter 27. That God is not the form of any body
+          ru: Глава 27. О том, что Бог не есть формальное бытие всех [вещей]
+        - title: Caput 28 
+          en: Chapter 28. The divine perfection
+          ru: Глава 28. О божественном совершенстве
+        - title: Caput 29 
+          en: Chapter 29. The likeness of creatures to God
+          ru: Глава 29. О подобии тварей
+        - title: Caput 30 
+          en: Chapter 30. The names that can be predicated of God
+          ru: Глава 30. Какими именами можно называть Бога
+        - title: Caput 31 
+          en: Chapter 31. That the divine perfection and the plurality of divine names are not opposed to the divine simplicity
+          ru: Глава 31. О том, что божественное совершенство и множество имен Божиих не противоречат Божией простоте
+        - title: Caput 32 
+          en: Chapter 32. That nothing is predicated univocally of God and other things
+          ru: Глава 32. О том, что ничто не сказывается о Боге и о прочих вещах однозначно
+        - title: Caput 33 
+          en: Chapter 33. That not all names are said of God and creatures in a purely equivocal way
+          ru: Глава 33. О том, что не все имена сказываются о Боге и тварях чисто омонимически
+        - title: Caput 34 
+          en: Chapter 34. That names said of God and creatures are said analogically
+          ru: Глава 34. О том, что все, что сказывается о Боге и о тварях, сказывается аналогически
+        - title: Caput 35 
+          en: Chapter 35. That many names said of God are not synonyms
+          ru: Глава 35. О том, что имена, сказываемые о Боге, не синонимы
+        - title: Caput 36 
+          en: Chapter 36. How our intellect forms a proposition about God
+          ru: Глава 36. Как наш ум образует высказывания о Боге
+        - title: Caput 37 
+          en: Chapter 37. That God is good
+          ru: Глава 37. О том, что Бог благ
+        - title: Caput 38 
+          en: Chapter 38. That God is goodness itself
+          ru: Глава 38. О том, что Бог — сама благость
+        - title: Caput 39 
+          en: Chapter 39. That there cannot be evil in God
+          ru: Глава 39. О том, что в Боге не может быть зла
+        - title: Caput 40 
+          en: Chapter 40. That God is the good of every good
+          ru: Глава 40. О том, что Бог — благо всякого блага
+        - title: Caput 41 
+          en: Chapter 41. That God is the highest good
+          ru: Глава 41. О том, что Бог — высшее благо
+        - title: Caput 42 
+          en: Chapter 42. That God is one
+          ru: Глава 42. О том, что Бог един
+        - title: Caput 43 
+          en: Chapter 43. That God is infinite
+          ru: Глава 43. О том, что Бог бесконечен
+        - title: Caput 44 
+          en: Chapter 44. That God is intelligent
+          ru: Глава 44. О том, что Бог мыслит
+        - title: Caput 45 
+          en: Chapter 45. That God’s act of understanding is His essence
+          ru: Глава 45. О том, что мышление Бога есть его сущность
+        - title: Caput 46 
+          en: Chapter 46. That God understands through nothing other than through His essence
+          ru: Глава 46. О том, что Бог мыслит не чем иным, как своей сущностью
+        - title: Caput 47 
+          en: Chapter 47. That God understands Himself perfectly
+          ru: Глава 47. О том, что Бог в совершенстве постигает самого себя
+        - title: Caput 48 
+          en: Chapter 48. That primarily and essentially God knows only Himself
+          ru: Глава 48. О том, что Бог в совершенстве постигает самого себя
+        - title: Caput 49 
+          en: Chapter 49. That God understands things other than Himself
+          ru: Глава 49. О том, что Бог познает [не только себя, но и] другое
+        - title: Caput 50 
+          en: Chapter 50. That God has a proper knowledge of all things
+          ru: Глава 50. О том, что Бог знает каждую вещь в ее особенности
+        - title: Caput 51 
+          en: Chapter 51. Arguments inquiring how a multitude of intellectual objects is in the divine intellect
+          ru: Глава 51. Соображения к вопросу о том, каким образом множество умопостигаемых существует в Божьем уме
+        - title: Caput 53 
+          en: Chapter 53. The solution of the above difficulty
+          ru: Глава 53. Разрешение вышеприведенного затруднения
+        - title: Caput 54 
+          en: Chapter 54. How the divine essence, being one and simple, is the proper likeness of all intelligible objects
+          ru: Глава 54. Каким образом Божья сущность, единая и простая, есть подобие каждой из умопостигаемых вещей в ее особенности
+        - title: Caput 55 
+          en: Chapter 55. That God understands all things together
+          ru: Глава 55. О том, что Бог мыслит все сразу
+        - title: Caput 56 
+          en: Chapter 56. That God’s knowledge is not habitual
+          ru: Глава 56. О том, что Божье познание не хабитуалъно
+        - title: Caput 57 
+          en: Chapter 57. That God’s knowledge is not discursive
+          ru: Глава 57. О том, что Божье познание не дискурсивно
+        - title: Caput 58 
+          en: Chapter 58. That God does not understand by composing and dividing
+          ru: Глава 58. О том, что Бог не мыслит через связывание и разделение
+        - title: Caput 59 
+          en: Chapter 59. That the truth of enunciables; is not excluded from God
+          ru: Глава 59. О том, что истина суждений не чужда Богу
+        - title: Caput 60 
+          en: Chapter 60. That God is truth
+          ru: Глава 60. О том, что Бог есть истина
+        - title: Caput 61 
+          en: Chapter 61. That God is the purest truth
+          ru: Глава 61. О том, что Бог есть чистейшая истина
+        - title: Caput 62 
+          en: Chapter 62. That the divine truth is the first and highest truth
+          ru: Глава 62. О том, что Божья истина есть первая и высшая истина
+        - title: Caput 63 
+          en: Chapter 63. The arguments of those who wish to take away the knowledge of singulars from God
+          ru: Глава 63. Доводы тех, кто не хочет допустить, что Бог познает единичные [вещи]
+        - title: Caput 64 
+          en: Chapter 64. The order of what is to be said on the divine knowledge
+          ru: Глава 64. Порядок того, что нужно будет сказать в связи с Божьим познанием
+        - title: Caput 65 
+          en: Chapter 65. That God knows singulars
+          ru: Глава 65. О том, что Бог знает единичные [вещи]
+        - title: Caput 66 
+          en: Chapter 66. That God knows the things that are not
+          ru: Глава 66 
+          authors: [aquinas, pegis]
+        - title: Caput 67 
+          en: Chapter 67. That God knows future contingent singulars;
+          ru: Глава 67 
+        - title: Caput 68 
+          en: Chapter 68. That God knows the motions of the will
+          ru: Глава 68 
+        - title: Caput 69 
+          en: Chapter 69. That God knows infinite things
+          ru: Глава 69 
+        - title: Caput 70 
+          en: Chapter 70. That God knows lowly things
+          ru: Глава 70 
+        - title: Caput 71 
+          en: Chapter 71. That God knows evils
+          ru: Глава 71 
+        - title: Caput 72 
+          en: Chapter 72. That God has will
+          ru: Глава 72 
+        - title: Caput 73 
+          en: Chapter 73. That the will of God is His essence
+          ru: Глава 73 
+        - title: Caput 74 
+          en: Chapter 74. That the principal object of the divine will is the divine essence
+          ru: Глава 74 
+        - title: Caput 75 
+          en: Chapter 75. That in willing Himself God also wills other things
+          ru: Глава 75 
+        - title: Caput 76 
+          en: Chapter 76. That God wills Himself and other things by one act of will
+          ru: Глава 76 
+        - title: Caput 77 
+          en: Chapter 77. That the multitude of the objects of the will is not opposed to the divine simplicity
+          ru: Глава 77 
+        - title: Caput 78 
+          en: Chapter 78. That the divine will extends to singular goods
+          ru: Глава 78 
+        - title: Caput 79 
+          en: Chapter 79. That God wills even the things that are not yet
+          ru: Глава 79 
+        - title: Caput 80 
+          en: Chapter 80. That His own being and His own goodness God wills necessarily
+          ru: Глава 80 
+        - title: Caput 81 
+          en: Chapter 81. That God does not will other things in a necessary way
+          ru: Глава 81 
+        - title: Caput 82 
+          en: Chapter 82. Arguments leading to awkward consequences if God does not necessarily will things other than Himself
+          ru: Глава 82 
+        - title: Caput 83 
+          en: Chapter 83. That God wills something other than Himself with the necessity of supposition
+          ru: Глава 83 
+        - title: Caput 84 
+          en: Chapter 84. That the will of God is not of what is in itself impossible
+          ru: Глава 84 
+        - title: Caput 85 
+          en: Chapter 85. That the divine will does not remove contingency from things, nor does it impose absolute necessity on them
+          ru: Глава 85 
+        - title: Caput 86 
+          en: Chapter 86. That a reason can be assigned to the divine Will
+          ru: Глава 86 
+        - title: Caput 87 
+          en: Chapter 87. That nothing can be the cause of the divine Will
+          ru: Глава 87 
+        - title: Caput 88 
+          en: Chapter 88. That in God there is free choice
+          ru: Глава 88 
+        - title: Caput 89 
+          en: Chapter 89. That in God there are not the passions of the appetites
+          ru: Глава 89 
+        - title: Caput 90 
+          en: Chapter 90. That in God there are delight and joy, but they are not opposed to the divine perfection
+          ru: Глава 90 
+        - title: Caput 91 
+          en: Chapter 91. That in God there is love
+          ru: Глава 91 
+        - title: Caput 92 
+          en: Chapter 92. How virtues may be held to be in God
+          ru: Глава 92 
+        - title: Caput 93 
+          en: Chapter 93. That in God there are the moral virtues that deal with actions
+          ru: Глава 93 
+        - title: Caput 94 
+          en: Chapter 94. That in God there are contemplative virtues
+          ru: Глава 94 
+        - title: Caput 95 
+          en: Chapter 95. That God cannot will evil
+          ru: Глава 95 
+        - title: Caput 96 
+          en: Chapter 96. That God hates nothing, and the hatred of no thing befits Him
+          ru: Глава 96 
+        - title: Caput 97 
+          en: Chapter 97. That God is living
+          ru: Глава 97 
+        - title: Caput 98 
+          en: Chapter 98. That God is His life
+          ru: Глава 98 
+        - title: Caput 99 
+          en: Chapter 99. That the life of God is everlasting
+          ru: Глава 99 
+        - title: Caput 100 
+          en: Chapter 100. That God is blessed
+          ru: Глава 100 
+        - title: Caput 101 
+          en: Chapter 101. That God is His blessedness
+          ru: Глава 101 
+        - title: Caput 102 
+          en: Chapter 102. That the perfect and unique blessedness of God excels every other blessedness
+          ru: Глава 102 
+    - title: Liber Secundum
+      en: "Book Two: Creation"
+      ru: Книга вторая
+      authors: [aquinas, boroday, anderson]
+      children:
+        - title: Caput 1 
+          en: Chapter 1. The connection between the following considerations and the preceding ones
+          ru: Глава 1. Связь предстоящего рассуждения с предшествующим
+        - title: Caput 2 
+          en: Chapter 2. That the consideration of creatures is useful for instruction of faith
+          ru: Глава 2. О том, что рассмотрение творений полезно для наставления в вере
+        - title: Caput 3 
+          en: Chapter 3. That knowledge of the nature of creatures serves to destroy errors concerning God
+          ru: Глава 3. О том, что знание природы творений позволяет опровергнуть заблуждения относительно Бога
+        - title: Caput 4 
+          en: Chapter 4. That the philosopher and the theologian consider creatures in different ways
+          ru: Глава 4. О том, что философ и богослов рассматривают творения по-разному
+        - title: Caput 5 
+          en: Chapter 5. Order of procedure
+          ru: Глава 5. Порядок изложения
+        - title: Caput 6 
+          en: Chapter 6. That it is proper to God to be the source of the being of other things
+          ru: Глава 6. О том, что Богу свойственно быть началом бытия для прочих
+        - title: Caput 7 
+          en: Chapter 7. That active power exists in God
+          ru: Глава 7. О том, что в Боге есть активная потенция
+        - title: Caput 8 
+          en: Chapter 8. That God’s power is His substance
+          ru: Глава 8. О том, что могущество Бога есть Его субстанция
+        - title: Caput 9 
+          en: Chapter 9. That God’s power is His action
+          ru: Глава 9. О том, что могущество Бога есть Его действие
+        - title: Caput 10 
+          en: Chapter 10. How power is attributed to God
+          ru: Глава 10. Каким образом можно говорить о потенции в Боге
+        - title: Caput 11 
+          en: Chapter 11. That something is said of God in relation to creatures
+          ru: Глава 11. О том, что некоторые предикаты сказываются о Боге относительно творений
+        - title: Caput 12 
+          en: Chapter 12. That relations predicated of God in reference to creatures do not really exist in Him
+          ru: Глава 12. О том, что отношения к творениям не существуют в Боге реально
+        - title: Caput 13 
+          en: Chapter 13. How the aforesaid relations are predicated of God
+          ru: Главы 13 и 14. Каким образом сказываются о Боге вышеупомянутые относительные [предикаты]
+        - title: Caput 15 
+          en: Chapter 15. That God is to all things the cause of being
+          ru: Глава 15. О том, что Бог - причина бытия для всех
+        - title: Caput 16 
+          en: Chapter 16. That God brought things into being from nothing
+          ru: Глава 16. О том, что Бог произвёл вещи в бытие из ничего
+        - title: Caput 17 
+          en: Chapter 17. That creation is neither motion nor change
+          ru: Глава 17. О том, что творение не есть ни движение, ни изменение
+        - title: Caput 18 
+          en: Chapter 18. How objections against creation are solved
+          ru: Глава 18. Опровержение доводов, приводимых против творения
+        - title: Caput 19 
+          en: Chapter 19. That in creation no succession exists
+          ru: Глава 19. О том, что в творении нет последовательности
+        - title: Caput 20 
+          en: Chapter 20. That no body is capable of creative action
+          ru: Глава 20. О том, что ни одно тело не может творить
+        - title: Caput 21 
+          en: Chapter 21. That the act of creating belongs to God alone
+          ru: Глава 21. О том, что творить свойственно одному Богу
+        - title: Caput 22 
+          en: Chapter 22. That God is omnipotent
+          ru: Глава 22. О том, что Бог всё может
+        - title: Caput 23 
+          en: Chapter 23. That God does not act by natural necessity
+          ru: Глава 23. О том, что Бог не действует по естественной необходимости
+        - title: Caput 24 
+          en: Chapter 24. That God acts conformably to His wisdom
+          ru: Глава 24. О том, что Бог действует мудро
+        - title: Caput 25 
+          en: Chapter 25. How the omnipotent God is said to be incapable of certain things
+          ru: Глава 25. В каком смысле о всемогущем [Боге] говорится, что Он чего-то не может
+        - title: Caput 26 
+          en: Chapter .26 That the divine intellect is not confined to limited effects
+          ru: Глава 26. О том, что Божий ум не ограничен определёнными действиями
+        - title: Caput 27 
+          en: Chapter 27. That the divine will is not restricted to certain effects
+          ru: Глава 27. О том, что воля Божья не ограничена определёнными действиями
+        - title: Caput 28 
+          en: Chapter 28. How dueness is entailed in the production of things
+          ru: Главы 28 и 29. Каким образом в творении присутствует должное
+        - title: Caput 30 
+          en: Chapter 30. How absolute necessity can exist in created things
+          ru: Глава 30. Каким образом в сотворённых вещах может быть абсолютная необходимость
+        - title: Caput 31 
+          en: Chapter 31. That it is not necessary for creatures to have always existed
+          ru: Глава 31. О том, что нет необходимости, чтобы твари были всегда
+        - title: Caput 32 
+          en: Chapter 32. Arguments of those who wish to demonstrate the world’s eternity from the point of view of God
+          ru: Глава 32. Доказательства вечности мира, основанные на [понятии] Бога
+        - title: Caput 33 
+          en: Chapter 33. Arguments of those who wish to prove the eternity of the world from the standpoint of creatures
+          ru: Глава 33. Доказательства вечности мира, основанные на [понятии] твари
+        - title: Caput 34 
+          en: Chapter 34. Arguments to prove the eternity of the world from the point of view of the making of things
+          ru: Глава 34. Доказательства вечности мира, основанные на [факте] творения
+        - title: Caput 35 
+          en: Chapter 35. Solution of the foregoing arguments, and first of those taken from the standpoint of God
+          ru: Глава 35. Опровержение доказательств, исходящих из [понятия] Бога
+        - title: Caput 36 
+          en: Chapter 36. Solution of the arguments proposed from the point of view of the things made
+          ru: Глава 36. Опровержение доводов, основанных на [понятии] твари
+        - title: Caput 37 
+          en: Chapter 37. Solution of the arguments taken from the point of view of the making of things
+          ru: Глава 37. Опровержение доводов, исходящих из того, что вещи возникли
+        - title: Caput 38 
+          en: Chapter 38. Arguments by which some try to show that the world is not eternal
+          ru: Глава 38. Аргументы, с помощью которых некоторые пытаются доказать, что мир не вечен
+        - title: Caput 39 
+          en: Chapter 39. That the distinction of things is not the result of chance
+          ru: Глава 39. О том, что различие вещей не случайно
+        - title: Caput 40 
+          en: Chapter 40. That matter is not the first cause of the distinction of things
+          ru: Глава 40. О том, что материя не является первой причиной различия вещей
+        - title: Caput 41 
+          en: Chapter 41. That a contrariety of agents does not account for the distinction of things
+          ru: Глава 41. О том, что вещи различны не из-за противоположных действующих причин
+        - title: Caput 42 
+          en: Chapter 42. That the first cause of the distinction of things is not the world of secondary agents
+          ru: Глава 42. О том, что первопричина различия вещей - это не порядок вторичных действующих причин
+        - title: Caput 43 
+          en: Chapter 43. That the distinction of things is not caused by some secondary agent introducing diverse forms into matter
+          ru: Глава 43. О том, что различие вещей не создано одной из вторичных действующих причин, которая вводит в материю разные формы
+        - title: Caput 44 
+          en: Chapter 44. That the distinction of things does not have its source in the diversity of merits or demerits
+          ru: Глава 44. О том, что различие вещей произошло не от разницы заслуг или прегрешений
+        - title: Caput 45 
+          en: Chapter 45. The true first cause of the distinction of things
+          ru: Глава 45. Какова истинная первопричина различия вещей
+        - title: Caput 46 
+          en: Chapter 46. That the perfection of the universe required the existence of some intellectual creatures
+          ru: Глава 46. О том, что для совершенства вселенной некоторые твари должны были быть мыслящими
+        - title: Caput 47 
+          en: Chapter 47. That intellectual substances are endowed with will
+          ru: Глава 47. О том, что мыслящие субстанции наделены волей
+        - title: Caput 48 
+          en: Chapter 48. That intellectual substances have freedom of choice in acting
+          ru: Глава 48. О том, что мыслящие субстанции действуют на основании свободного решения
+        - title: Caput 49 
+          en: Chapter 49. That the intellectual substance is not a body
+          ru: Глава 49. О том, что мыслящая субстанция - не тело
+        - title: Caput 50 
+          en: Chapter 50. That intellectual substances are immaterial
+          ru: Глава 50. О том, что мыслящие субстанции нематериальны
+        - title: Caput 51 
+          en: Chapter 51. That the intellectual substance is not a material form
+          ru: Глава 51. О том, что мыслящая субстанция - не материальная форма
+        - title: Caput 52 
+          en: Chapter 52. That in created intellectual substances, being and what is differ
+          ru: Глава 52. О том, что в тварных мыслящих субстанциях бытие и сущность различаются
+        - title: Caput 53 
+          en: Chapter 53. That in created intellectual substances there is act and potentiality
+          ru: Глава 53. О том, что в тварных мыслящих субстанциях есть акт и потенция
+        - title: Caput 54 
+          en: Chapter 54. That the composition of substance and being is not the same as the composition of matter and form
+          ru: Глава 54. О том, что состоять из субстанции и бытия и состоять из формы и материи - не одно и то же
+        - title: Caput 55 
+          en: Chapter 55. That intellectual substances are incorruptible
+          ru: Глава 55. О том, что мыслящие субстанции нетленны
+        - title: Caput 56 
+          en: Chapter 56. In what way an intellectual substance can be united to the body
+          ru: Глава 56. Каким образом мыслящая субстанция может соединяться с телом
+        - title: Caput 57 
+          en: Chapter 57. The position of Plato concerning the union of the intellectual soul with the body
+          ru: Глава 57. Точка зрения Платона на соединение мыслящей души с телом
+        - title: Caput 58 
+          en: Chapter 58. That in man there are not three souls, nutritive, sensitive, and intellective
+          ru: Глава 58. О том, что питающее, чувствующее и мыслящее [начала] в человеке - не три души
+        - title: Caput 59 
+          en: Chapter 59. That man’s possible intellect is not a separate substance
+          ru: Глава 59. О том, что потенциальный ум человека - не отделённая субстанция
+        - title: Caput 60 
+          en: Chapter 60. That man derives his specific nature, not from the passive, but from the possible, intellect
+          ru: Глава 60. О том, что человек получает своё вид[овое определение] не по пассивному уму, а по уму потенциальному
+        - title: Caput 61 
+          en: Chapter 61. That this theory is contrary to the teaching of Aristotle
+          ru: Глава 61. О том, что рассмотренное выше положение [Аверроэса] противоречит учению Аристотеля
+        - title: Caput 62 
+          en: Chapter 62. Against Alexander’s opinion concerning the possible intellect
+          ru: Глава 62. Против мнения Александра о потенциальном уме
+        - title: Caput 63 
+          en: Chapter 63. That the soul is not a temperament, as Galen maintained
+          ru: Глава 63. О том, что душа - это не смешение соков, как думал Гален
+        - title: Caput 64 
+          en: Chapter 64. That the soul is not a harmony
+          ru: Глава 64. О том, что душа - не гармония
+        - title: Caput 65 
+          en: Chapter 65. That the soul is not a body
+          ru: Глава 65. О том, что душа - не тело
+        - title: Caput 66 
+          en: Chapter 66. Against those who maintain that intellect and sense we the same
+          ru: Глава 66. Против тех, кто отождествляет ум и чувство
+        - title: Caput 67 
+          en: Chapter 67. Against those who hold that the possible intellect is the imagination
+          ru: Глава 67. Против тех, кто полагает, будто потенциальный ум - это воображение
+        - title: Caput 68 
+          en: Chapter 68. How an intellectual substance can be the form of the body
+          ru: Глава 68. Как мыслящая субстанция может быть формой тела
+        - title: Caput 69 
+          en: Chapter 69. Solution of the arguments advanced above in order to show that an intellectual substance cannot be united to the body as its form
+          ru: Глава 69. Опровержение доводов, с помощью которых доказывалось, что мыслящая субстанция не может соединяться с телом как форма
+        - title: Caput 70 
+          en: Chapter 70. That according to the words of Aristotle the intellect must be said to be united to the body as its form
+          ru: Глава 70. О том, что, согласно Аристотелю, ум соединён с телом как форма
+        - title: Caput 71 
+          en: Chapter 71. That the soul is united to the body without intermediation
+          ru: Глава 71. О том, что душа соединяется с телом непосредственно
+        - title: Caput 72 
+          en: Chapter 72. That the whole soul is in the whole body and in each of its parts
+          ru: Глава 72. О том, что душа присутствует целиком как во всём теле, так и в каждой его части
+        - title: Caput 73 
+          en: Chapter 73. That there is not one possible intellect in all men
+          ru: Глава 73. О том, что потенциальный ум - не один у всех людей
+        - title: Caput 74 
+          en: Chapter 74. Concerning the theory of Avicenna, who said that intelligible forms are not preserved in the possible intellect
+          ru: Глава 74. О мнении Авиценны, который считал, что умопостигаемые формы не сохраняются в потенциальном уме
+        - title: Caput 75 
+          en: Chapter 75. Solution of the seemingly demonstrative arguments for the unity of the possible intellect
+          ru: Глава 75. Опровержение доводов, по видимости доказывающих единство потенциального ума
+        - title: Caput 76 
+          en: Chapter 76. That the agent intellect is not a separate substance, but part of the soul
+          ru: Глава 76. О том, что деятельный ум - не отделённая субстанция, а некая [часть] души
+        - title: Caput 77 
+          en: Chapter 77. That it is not impossible for the possible and agent intellect to exist together in the one substance of the soul
+          ru: Глава 77. О том, что потенциальный и деятельный ум могут сосуществовать в одной субстанции души
+        - title: Caput 78 
+          en: Chapter 78. That Aristotle held not that the agent intellect is a separate substance, but that it is a part of the soul
+          ru: Глава 78. О том, что по учению Аристотеля деятельный ум не отделённая субстанция, а [часть] души
+        - title: Caput 79 
+          en: Chapter 79. hat the human soul does not perish when the body is corrupted
+          ru: Глава 79. О том, что человеческая душа с уничтожением тела не уничтожается
+        - title: Caput 80 
+          en: Chapter 80. Arguments to prove that the corruption of the body entails that of the soul [and their solution]
+          ru: Главы 80 и 81. Доказательства того, что душа погибает с гибелью тела, и их опровержение
+        - title: Caput 82 
+          en: Chapter 82. That the souls of brute animals are not immortal
+          ru: Глава 82. О том, что души бессловесных животных не бессмертны
+        - title: Caput 83 
+          en: Chapter 83. That the human soul begins to exist when the body does
+          ru: Глава 83. О том, что человеческая душа возникает вместе с телом
+        - title: Caput 84 
+          en: Chapter 84. Solution of the preceding arguments
+          ru: Глава 84. Опровержение вышеприведённых доводов
+        - title: Caput 85 
+          en: Chapter 85. That the soul is not made of God’s substance
+          ru: Глава 85. О том, что душа не принадлежит к субстанции Бога
+        - title: Caput 86 
+          en: Chapter 86. That the human soul is not transmitted with the semen
+          ru: Глава 86. О том, что человеческая душа не передаётся с семенем
+        - title: Caput 87 
+          en: Chapter 87. That the human soul is brought into being through the creative action of God
+          ru: Глава 87. О том, что человеческая душа творится Богом
+        - title: Caput 88 
+          en: Chapter 88. Arguments designed to prove that the human soul is formed from the semen
+          ru: Глава 88. Доказательства того, что причина человеческой души - семя
+        - title: Caput 89 
+          en: Chapter 89. Solution of the preceding arguments
+          ru: Глава 89. Опровержение доказательств, приведённых в предыдущей главе
+        - title: Caput 90 
+          en: Chapter 90. That an intellectual substance is united only to a human body as its form
+          ru: Глава 90. О том, что интеллектуальная субстанция не соединяется в качестве формы ни с каким телом, кроме человеческого
+        - title: Caput 91 
+          en: Chapter 91. That there are some intellectual substances which are not united to bodies
+          ru: Глава 91. О том, что есть интеллектуальные субстанции, не соединенные с телами
+        - title: Caput 92 
+          en: Chapter 92. Concerning the great number of separate substances
+          ru: Глава 92. О множестве отделенных субстанций
+        - title: Caput 93 
+          en: Chapter 93. Of the non-existence of a plurality of separate substances of one species
+          ru: Глава 93. О том, что не бывает нескольких отделенных субстанций одного вида
+        - title: Caput 94 
+          en: Chapter 94. That the separate substance and the soul are not of the same species
+          ru: Глава 94. О том, что отделенная субстанция и душа не принадлежат к одному виду
+        - title: Caput 95 
+          en: Chapter 95. How in separate substances genus and species are to be taken
+          ru: Глава 95. Как следует понимать род и вид применительно к отделенным субстанциям
+        - title: Caput 96 
+          en: Chapter 96. That separate substances do not receive their knowledge from sensible things
+          ru: Глава 96. О том, что отделенные субстанции не получают познание из чувственных [вещей]
+        - title: Caput 97 
+          en: Chapter 97. That the intellect of a separate substance is always in act of understanding
+          ru: Глава 97. О том, что ум отделенной субстанции всегда мыслит актуально
+        - title: Caput 98 
+          en: Chapter 98. How one separate substance understands another
+          ru: Глава 98. Каким образом одна интеллектуальная субстанция мыслит другую
+        - title: Caput 99 
+          en: Chapter 99. That separate substances know material things
+          ru: Глава 99. О том, что отделенные субстанции знают материальные вещи
+        - title: Caput 100 
+          en: Chapter 100. That separate substances know singulars
+          ru: Глава 100. О том, что отделенные субстанции знают единичные вещи
+        - title: Caput 101 
+          en: Chapter 101. Whether separate substances have natural knowledge of all things at the same time
+          ru: Глава 101. Знают ли отделенные субстанции естественным знанием все сразу
