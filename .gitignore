@@ -9,6 +9,10 @@ tmp
 client
 eproject.cfg
 SOURCE
+Source
 JUNK
+*.info
+*.org
+
 
 
